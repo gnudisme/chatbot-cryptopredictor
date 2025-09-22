@@ -24,7 +24,7 @@ Bot Telegram thông minh dự đoán giá cryptocurrency, cung cấp phân tích
 - Support/Resistance levels
 - Volatility analysis
 
-### 📰 Tin tức Crypto
+### 📰 Tin tức Crypto (Pending)
 - Tin tức tổng quát về thị trường crypto
 - Tin tức cụ thể cho từng coin
 - Phân tích sentiment từ tin tức
